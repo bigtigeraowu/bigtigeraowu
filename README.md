@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-bigtigeraowu/bigtigeraowu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...? 
   I do not have any work, if you consider the fact that I am just an undergrad cheering to jump into the wild world.
 - 🌱 I’m currently learning ... 
