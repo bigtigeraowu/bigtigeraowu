@@ -9,6 +9,6 @@
 - 📫 How to reach me: Can Github leave the insite message? Since this is the first time for me to use Github...(Well, I had used it before only to get access to some open source projects) IF can't, send me some info via email: JaggerGao@protonmail.com, since I am busy, I will try to check the mailbox once a month.🤓
 - 🥳 I wish to start a personal website on the Github, and I am looking for the details for it. Maybe the website could be a suitable place to leave some records for my life.
 - ⚡ Fun fact: I almost know nothing about coding(Maybe some TCAD software and CAD software experiences?).
-- My [blog](bigtigeraowu.github.io)
+- My [blog](www.bigtigeraowu.github.io)
 - 
 🥳 Hve fun!
